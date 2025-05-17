@@ -2,7 +2,7 @@
 
 ###
 
-![MongDan](img/header.png)
+![MongDan](img/mongdan.png)
 
 <h2 align="left">SKILL</h2>
 
