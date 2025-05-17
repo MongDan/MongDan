@@ -1,47 +1,48 @@
 <h1 align="left">Hallo Everyone ! 😁👋</h1>
 
 ###
+![MongDan](img/header.png)
 
-<h2 align="center">SKILL</h2>
+<h2 align="left">SKILL</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
+  <img width="60" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
 </div>
 
 ###
 
-<h3 align="center">SOCIAL MEDIA</h3>
+<h3 align="left">SOCIAL MEDIA</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.youtube.com/@dandyteguhpratama922" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="100" height="40" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/dandy.prtmaa_/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="100" height="40" alt="instagram logo"  />
   </a>
   <a href="https://lh3.googleusercontent.com/a/ACg8ocK4bXSEZQeKJO2LEtqhlovh2irDNLg5wqAklcPsUffgARc9fCk=s360-c-no" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="100" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.facebook.com/dandyteguh.pratama" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="100" height="40" alt="facebook logo"  />
   </a>
 </div>
 
 ###
 
-<h3 align="center">STATS</h3>
+<h3 align="left">STATS</h3>
 
 ###
 
@@ -52,7 +53,7 @@
 
 ###
 
-<h3 align="center">ACTIVITY</h3>
+<h3 align="left">ACTIVITY</h3>
 
 ###
 
@@ -68,7 +69,7 @@
 
 ###
 
-<h3 align="center">VIEW</h3>
+<h3 align="left">VIEW</h3>
 
 ###
 
