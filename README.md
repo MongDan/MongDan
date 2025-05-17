@@ -3,7 +3,6 @@
 ###
 
 ![MongDan](img/mongdan.png)
-*******
 
 <h2 align="left">SKILL</h2>
 
@@ -22,7 +21,8 @@
 </div>
 
 ###
-*******
+
+---
 
 <h3 align="left">SOCIAL MEDIA</h3>
 
@@ -44,7 +44,8 @@
 </div>
 
 ###
-******
+
+---
 
 <h3 align="left">STATS</h3>
 
@@ -56,7 +57,8 @@
 </div>
 
 ###
-******
+
+---
 
 <h3 align="left">ACTIVITY</h3>
 
@@ -74,8 +76,7 @@
 
 ###
 
-###
-*******
+---
 
 <h3 align="left">VIEW</h3>
 
@@ -84,8 +85,6 @@
 <img align="left" height="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2J4eGVid2Y3anVrbG54anYyMHc5cDg2bmV2ZGliMmI4MnNrdWhuMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif"  />
 
 ###
-******
-
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/MongDan/count.svg?"  />
